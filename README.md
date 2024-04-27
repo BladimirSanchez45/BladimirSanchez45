@@ -1,7 +1,10 @@
 # print("Hello World!")
 
-### Currently still studyng my carrer on Tecmilenio and i'm studying Engineer on software development, i am 23 years old and i really like coding, i want to learn more about programing so i'm searching for job about my carrer as an intern so i can get the experience i need for beeing a better coder 😎
-### My main programming languages are: Python, Javascript, SQL and i'm still learning more languages!
+### I am a Software Development Engineer and master´s student who loves
+backend and frontend code, ready to improve in the development of
+my skills to be better every day, self taught when it comes to learning
+new things but always open to receiving support from my colleagues, I
+like difficult challenges and the satisfaction of solving a problem.
 
 You can follow me to know a little more about me in the next sites😊
 
