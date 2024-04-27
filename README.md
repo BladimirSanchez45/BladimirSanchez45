@@ -1,7 +1,7 @@
 # print("Hello World!")
 
-### I am a Software Development Engineer and master´s student who loves
-backend and frontend code, ready to improve in the development of
+### I am a Software Development Engineer and master´s student 
+who loves backend and frontend code, ready to improve in the development of
 my skills to be better every day, self taught when it comes to learning
 new things but always open to receiving support from my colleagues, I
 like difficult challenges and the satisfaction of solving a problem.
